@@ -1,0 +1,16 @@
+  289  ls
+  290  cd fastas
+  291  ls
+  292  cd ../
+  293  rm cancer_genes.fasta
+  294  ls
+  295  vi oops
+  296  git add oops
+  297  git commit oops -m "adding oops"
+  298  git status
+  299  git push origin main
+  300  git ststus
+  301  git rm oops
+  302  git commit -m "removing oops"
+  303  git push
+  304  history
